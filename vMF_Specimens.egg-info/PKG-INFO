@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: vMF-Specimens
+Version: 1.0.1
+Summary: Fisher specimen uncertainty package
+Home-page: https://github.com/dave-heslop74
+Author: Dave Heslop
+Author-email: dave.heslop74@gmail.com
+License: UNKNOWN
+Description: # vMF-Specimens
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

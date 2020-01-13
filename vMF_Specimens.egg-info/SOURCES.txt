@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+vMF_Specimens/__init__.py
+vMF_Specimens.egg-info/PKG-INFO
+vMF_Specimens.egg-info/SOURCES.txt
+vMF_Specimens.egg-info/dependency_links.txt
+vMF_Specimens.egg-info/top_level.txt
