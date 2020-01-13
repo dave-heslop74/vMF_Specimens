@@ -3,7 +3,6 @@ import pandas as pd
 import qgrid
 import ipywidgets as ipyw
 from traitlets import traitlets
-from past.utils import old_div
 
 def A95toKR(alpha):
     return 2.99573 / (1-np.cos(np.deg2rad(alpha)))
