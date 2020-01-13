@@ -192,10 +192,10 @@ def cart2dir(cart):
     Rs = np.sqrt(Xs**2 + Ys**2 + Zs**2)  # calculate resultant vector length
     # calculate declination taking care of correct quadrants (arctan2) and
     # making modulo 360.
-    Decs = (old_div(np.arctan2(Ys, Xs), rad)) % 360.
+    Decs = (np.arctan2(Ys, Xs) / rad) % 360.
     try:
         # calculate inclination (converting to degrees) #
-        Incs = old_div(np.arcsin(old_div(Zs, Rs)), rad)
+        Incs = np.arcsin(Zs/Rs) / rad
     except:
         print('trouble in cart2dir')  # most likely division by zero somewhere
         return np.zeros(3)
