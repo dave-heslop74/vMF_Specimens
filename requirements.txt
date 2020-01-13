@@ -4,5 +4,6 @@ IPython==7.2.0
 ipywidgets==7.4.2
 pandas
 qgrid
+past
 git+https://github.com/dave-heslop74/vMF-Specimens.git
 jupyter_contrib_nbextensions
