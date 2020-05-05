@@ -3,7 +3,7 @@ This repository contains the *vMF_Specimens* package, which was created to accom
 
 D. Heslop & A. P. Roberts (2020). Uncertainty propagation in hierarchical paleomagnetic reconstructions. *Journal of Geophysical Research (Submitted)*.
 
-The package provides Python (v3.7) code and an interactive Jupyter notebook to perform uncertainty propagation when averaging Fisher (1953) distributions as applied to paleomagnetic characteristic remanence directions. 
+The package provides Python (v3.7) code and an interactive Jupyter notebook to perform uncertainty propagation when averaging Fisher (1953) distributions as applied to paleomagnetic specimen directions. 
 
 ### Running on the Cloud
 The simplest way to run the calculation notebook is on the Binder cloud, using this button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dave-heslop74/vMF_Specimens/master?urlpath=%2Fapps%2FvMF_Specimens.ipynb)
