@@ -9,7 +9,7 @@ The package provides Python (v3.7) code and an interactive Jupyter notebook to p
 The simplest way to run the calculation notebook is on the Binder cloud, using this button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dave-heslop74/vMF_Specimens/master?urlpath=%2Fapps%2FvMF_Specimens.ipynb)
 
 ### Running locally
-The *vMF_Sites* package can be installed locally using the ```pip``` command:
+The *vMF_Specimens* package can be installed locally using the ```pip``` command:
 
 ```pip install git+https://github.com/dave-heslop74/vMF_Specimens.git```
 
